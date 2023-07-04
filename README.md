@@ -8,7 +8,7 @@
 
 ## Configuration
 
-La ressource "sd-ReducedDensity" utilise un fichier `config.lua` où vous pouvez ajuster les valeurs de densité selon vos préférences. Vous pouvez spécifier la densité des PNJ et de la circulation en modifiant les valeurs dans ce fichier.
+Vous pouvez ajuster les valeurs de densité selon vos préférences. Vous pouvez spécifier la densité des PNJ et de la circulation en modifiant les valeurs dans le `reduce_density.lua` .
 
 ## Installation
 
@@ -27,7 +27,7 @@ La ressource "sd-ReducedDensity" utilise un fichier `config.lua` où vous pouvez
 
 ## Configuration
 
-The "sd-ReducedDensity" resource uses a `config.lua` file where you can adjust the density values according to your preferences. You can specify the density of NPCs and traffic by modifying the values in this file.
+You can adjust the density values according to your preferences. You can specify the density of NPCs and traffic by modifying the values in `reduce_density.lua`.
 
 ## Installation
 
