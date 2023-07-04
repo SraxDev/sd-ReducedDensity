@@ -1,7 +1,7 @@
 local Config = {
     pedDensity = 0,
     scenarioPedDensity = 0,
-    vehicleDensity = 0,
+    vehicleDensity = 0,              -- Max value 1.0
     randomVehicleDensity = 0,
     parkedVehicleDensity = 0
 }
