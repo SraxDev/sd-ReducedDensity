@@ -34,3 +34,5 @@ The "sd-ReducedDensity" resource uses a `config.lua` file where you can adjust t
 1. Place the "sd-ReducedDensity" resource in the `resources` folder of your FiveM server.
 2. Add the following line to your `server.cfg` file:
 3. Restart your FiveM server.
+
+[MIT](LICENSE)
