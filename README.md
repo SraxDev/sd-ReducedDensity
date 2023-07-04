@@ -1,3 +1,5 @@
+Fivem topic : https://forum.cfx.re/t/sd-reduceddensity-esx-qbcore-standalone/5133854
+
 # Français : sd-ReducedDensity
 
 "sd-ReducedDensity" est une ressource pour FiveM qui permet de réduire la densité des PNJ et de la circulation dans votre serveur.
