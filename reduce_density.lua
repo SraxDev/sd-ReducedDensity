@@ -8,15 +8,14 @@ local Config = {
 
 Citizen.CreateThread(function()
     while true do
-        -- Réglage de la densité des PNJ / Adjusting NPC density
+        -- Mise à jour moins fréquente (500ms au lieu de chaque frame)
+        Wait(500)
+        
+        -- Réglage de la densité
         SetPedDensityMultiplierThisFrame(Config.pedDensity)
         SetScenarioPedDensityMultiplierThisFrame(Config.scenarioPedDensity, Config.scenarioPedDensity)
-
-        -- Réglage de la densité de la circulation / Adjusting traffic density
         SetVehicleDensityMultiplierThisFrame(Config.vehicleDensity)
         SetRandomVehicleDensityMultiplierThisFrame(Config.randomVehicleDensity)
         SetParkedVehicleDensityMultiplierThisFrame(Config.parkedVehicleDensity)
-        
-        Wait(0)
     end
 end)
